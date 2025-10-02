@@ -86,3 +86,4 @@ AI-powered multilingual mobile platform for farmers offering real-time crop reco
 
 ---
 ⭐️ *"Strive for clean and efficient code that makes a difference."*  
+
