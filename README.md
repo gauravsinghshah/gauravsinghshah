@@ -30,11 +30,5 @@
 - 📧 Email: gaurav133133@gmail.com
 
 ---
-
-## 📊 GitHub Stats
-
-![Shah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravsinghshah&show_icons=true&theme=radical)
-
----
 ⭐️ *"Strive for clean and efficient code that makes a difference."*  
 
