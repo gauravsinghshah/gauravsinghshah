@@ -72,6 +72,10 @@
 📧 gaurav133133@gmail.com
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gauravsinghshah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
 ---
 
 ⭐️ *"Strive for clean, efficient code that creates real impact."*
